@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.project__wrapper {
+    margin: 0 auto;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project__heading {
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 5px;
+    margin-bottom: 1.5em;;
+}
+.center {
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 1.5em;;
+}
+
+footer {
+    text-align: center;
+}
